@@ -1,0 +1,19 @@
+body {
+  color: hsl(220, 14%, 71%) !important;
+  font-size: 18px !important;
+  font-family: 'Roboto', sans-serif !important;
+  background: hsl(220, 13%, 18%) !important;
+}
+
+.red-text {color: hsl(355, 65%, 65%);}
+
+.orange-text {color: hsl( 29, 54%, 61%);}
+
+#title {color: hsl(355, 65%, 65%); font-family: 'Inknut Antiqua', serif;}
+
+#avatar {
+  border-color: hsl(355, 65%, 65%);
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 50%;
+}
